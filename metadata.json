@@ -1,0 +1,6 @@
+{
+  "name": "DilKöprüsü — CEFR İngilizce Öğrenme Atölyesi",
+  "description": "A1'den B2'ye 4 CEFR seviyesi, 3D kelime kartları, dil bilgisi rehberi, yapay zekâ destekli alıştırma testleri ve iki dilli AI İngilizce öğretmeni.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
